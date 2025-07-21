@@ -1,4 +1,4 @@
-<img width="1058" height="658" alt="image" src="https://github.com/user-attachments/assets/c8b5eac5-4fc0-4a1e-8bdb-6e89a5b8d31b" /># imina - The All-in-One AI Application Development Platform
+# imina - The All-in-One AI Application Development Platform
 
 imina is an open-source, all-in-one platform designed to simplify and accelerate the development of AI applications. It seamlessly integrates a **visual workflow engine, RAG pipelines, and multi-agent systems**, enabling developers to move quickly from prototype to production.
 
