@@ -1,10 +1,11 @@
-# imina - The All-in-One AI Application Development Platform
+<img width="1058" height="658" alt="image" src="https://github.com/user-attachments/assets/c8b5eac5-4fc0-4a1e-8bdb-6e89a5b8d31b" /># imina - The All-in-One AI Application Development Platform
 
 imina is an open-source, all-in-one platform designed to simplify and accelerate the development of AI applications. It seamlessly integrates a **visual workflow engine, RAG pipelines, and multi-agent systems**, enabling developers to move quickly from prototype to production.
 
 > Inspired, and forked by Langflow, imina has been **completely rewritten from the ground up** to offer a more modern, powerful, and production-ready solution.
 
 <img width="2341" height="1252" alt="image" src="https://github.com/user-attachments/assets/e84d64b7-d08b-403e-b84d-7f39225a2fee" />
+<img width="1058" height="658" alt="image" src="https://github.com/user-attachments/assets/117cc915-6fbf-44a1-8295-75c95c2c6fe4" />
 
 ---
 
