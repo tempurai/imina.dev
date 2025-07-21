@@ -4,7 +4,7 @@ imina is an open-source, all-in-one platform designed to simplify and accelerate
 
 > Inspired, and forked by Langflow, imina has been **completely rewritten from the ground up** to offer a more modern, powerful, and production-ready solution.
 
-<img width="2330" height="1253" alt="image" src="https://github.com/user-attachments/assets/7ca3a256-07c4-4a73-a5a6-fdbdd454a394" />
+<img width="2341" height="1252" alt="image" src="https://github.com/user-attachments/assets/e84d64b7-d08b-403e-b84d-7f39225a2fee" />
 
 ---
 
