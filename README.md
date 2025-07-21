@@ -49,6 +49,9 @@ We are actively working on the following features and welcome community feedback
     -   **Observability**: Provide detailed logging, tracing, and performance analytics to monitor and continuously improve your applications.
     -   **Enterprise-Grade Features (Upcoming)**: Support for SSO, multi-tenancy, and fine-grained access control.
 
+<img width="1248" height="738" alt="image" src="https://github.com/user-attachments/assets/31bc7895-792e-4d2d-b99a-e8ee0418884b" />
+<img width="1242" height="673" alt="image" src="https://github.com/user-attachments/assets/11bef5e3-bc12-45e6-a075-d449ef54d339" />
+
 ---
 
 ### Quick Start
